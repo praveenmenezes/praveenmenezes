@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @praveenmenezes
-- 👀 I’m interested in FARM stack, Data Engineering, Data Engineering and ETL
+- 👀 I’m interested in FARM stack, Data Mining, Data Engineering and ETL
 - 🌱 I’m currently learning ETL, Jenkins, Farm Stack
 - 💞️ I’m looking to collaborate on any projects that incldude Python / MongoDB / PHP
 - 📫 How to reach me ? LinkedIn [https://www.linkedin.com/in/praveenmenezes]
